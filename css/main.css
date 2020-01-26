@@ -375,6 +375,14 @@ ul {
   margin-right: 15px;
 }
 
+.big-icon {
+  font-size: 20px;
+}
+
+.big-icon:hover {
+  transform: scale(1.1);
+}
+
 @media (max-width: 767px) {
   body {
     padding: 20px;
